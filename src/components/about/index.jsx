@@ -1,6 +1,6 @@
 import AboutArea from "@/src/common/about-area";
 import FooterFive from "@/src/layout/footers/footer-5";
-import HeaderSix from "@/src/layout/headers/header-6";
+import HeaderSix from "@/src/layout/headers/header-3";
 import React from "react";
 import Breadcrumb from "../../common/breadcrumbs/breadcrumb";
 import HeroBanner from "../../common/hero-banner";
@@ -14,7 +14,7 @@ import JourneyArea from "./journey-area";
 const About = () => {
   return (
     <>
-      <HeaderSix />
+     <HeaderThree/>
       <Breadcrumb title_top="About"  title_bottom="Softec" />
       <HeroBanner title="About" subtitle="Softec" bg_img="/assets/img/breadcrumb/breadcrumb-2.jpg" />
       <Brand />
