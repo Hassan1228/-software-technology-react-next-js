@@ -1,7 +1,7 @@
 import Breadcrumb from "@/src/common/breadcrumbs/breadcrumb";
 import HeroBanner from "@/src/common/hero-banner";
 import FooterFive from "@/src/layout/footers/footer-5";
-import HeaderSix from "@/src/layout/headers/header-6";
+import  HeaderThree from "@/src/layout/headers/header-3";
 import React from "react"; 
 import CardArea from "../../common/card-area";
 import SalesArea from "../../common/sales-area";
@@ -13,7 +13,7 @@ import ServiceArea from "./service-area";
 const Service = () => {
   return (
     <>
-      <HeaderSix />
+      <HeaderThree />
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>
