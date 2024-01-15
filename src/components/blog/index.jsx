@@ -4,7 +4,7 @@ import HeaderThree from "@/src/layout/headers/header-3";
 import React from "react";
 import CtaArea from "../contact/cta-area";
 import BlogGrid from "./blog-grid";
-import Portfolio from "./portfolio";
+import Portfolio from "./portfolio"; 
 
 const Blog = () => {
   return (
