@@ -15,7 +15,7 @@ import logo from "../../../public/assets/img/logo/logo-black.png"
 
 
 
-const Header = () => {
+const HeaderThree = () => {
 
       const {sticky}  =  useSticky()
       const [searchOpen, setSearchOpen] = useState(false)
