@@ -1,6 +1,6 @@
 import BreadcrumbTwo from "@/src/common/breadcrumbs/breadcrumb-2";
 import FooterFive from "@/src/layout/footers/footer-5";
-import HeaderSix from "@/src/layout/headers/header-6";
+import HeaderThree from "@/src/layout/headers/header-3";
 import React from "react";
 import BlogGrid from "../blog/blog-grid";
 import CtaArea from "../contact/cta-area";
@@ -10,7 +10,7 @@ import PostboxArea from "./postbox-area";
 const BlogList = () => {
   return (
     <>
-      <HeaderSix />
+      <HeaderThree />
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>
