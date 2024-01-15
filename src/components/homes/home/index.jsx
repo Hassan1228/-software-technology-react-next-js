@@ -1,6 +1,6 @@
 import ScrollToTop from "@/src/hooks/scroll-to-top";
 import Footer from "@/src/layout/footers/footer";
-import Header from "@/src/layout/headers/header-3";
+import HeaderThree from "@/src/layout/headers/header-3";
 import React from "react";
 import AboutArea from "../../../common/about-area";
 import FeatureArea from "./feature-area";
