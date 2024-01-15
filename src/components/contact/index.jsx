@@ -1,5 +1,5 @@
 import FooterFive from "@/src/layout/footers/footer-5";
-import HeaderSix from "@/src/layout/headers/header-6";
+import HeaderThree from "@/src/layout/headers/header-3";
 import React from "react";
 import Breadcrumb from "../../common/breadcrumbs/breadcrumb";
 import ContactFormArea from "./contact-form-area";
@@ -11,7 +11,7 @@ import OfficeLocation from "./office-location";
 const Contact = () => {
   return (
     <>
-      <HeaderSix />
+      <HeaderThree />
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>
