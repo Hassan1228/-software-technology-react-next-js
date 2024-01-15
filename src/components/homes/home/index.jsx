@@ -1,6 +1,6 @@
 import ScrollToTop from "@/src/hooks/scroll-to-top";
 import Footer from "@/src/layout/footers/footer";
-import Header from "@/src/layout/headers/header";
+import Header from "@/src/layout/headers/header-3";
 import React from "react";
 import AboutArea from "../../../common/about-area";
 import FeatureArea from "./feature-area";
@@ -14,7 +14,7 @@ import TestimonialArea from "./testimonial-area";
 const HomeOne = () => {
   return (
     <>
-      <Header />
+   
       <div id="smooth-wrapper">
       <div id="smooth-content">
       <main className="fix">
