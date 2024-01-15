@@ -8,7 +8,7 @@ import Image from 'next/image';
 
 import logo from "../../../public/assets/img/logo/logo-black.png"
 
-const HeaderThree = () => {
+const Header = () => {
 
     const {sticky} = useSticky()
     const [sidebarOpen, setSidebarOpen] = useState(false)
